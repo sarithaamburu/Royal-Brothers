@@ -1,0 +1,251 @@
+.headpart p{
+    background: #fed250;
+    padding: 10px;
+    text-align: center;
+    
+}
+.icon{
+    margin-top: -3%;
+    margin-left: 99%;
+}
+.headp2 p{
+    margin-left: 75%;
+}
+.headp3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.tariff:hover a{
+    background-color: #fed250;
+   
+}
+.offers:hover a{
+    background-color: #fed250;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.tariff{
+    margin-top: 2%;
+}
+.offers{
+    margin-top: 2%;
+}
+.sel select{
+    border: 0px;
+    
+}
+.sel{
+    margin-top: 2%;
+}
+.sel1 select{
+    border: 0px;
+
+}
+.sel1{
+    margin-top: 2%;
+}
+.but button select{
+    border: 0px;
+}
+.but{
+    margin-top: 1%;
+}
+.but button{
+    
+    border: #fed250 solid;
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+}
+.but :hover{
+    background-color: #fed250;
+
+}
+.login button{
+    border: 0px;
+    background-color: white;
+}
+.login:hover button{
+    background-color: #fed250;
+}
+.login{
+    margin-top: 2%;
+}
+.sing{
+   margin-top: 2%;
+}
+.sing button{
+    border: 0px;
+    background-color: white;
+  
+}
+.sing:hover button{
+    background-color: #fed250;
+}
+.firstpart{
+    position: fixed;
+}
+.subpart1{
+    display: flex;
+}
+.search{
+    margin-top: 2%;
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: #fed250;
+}
+.box{
+    
+    width: 60px;
+}
+.headpart3{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.headpart3 button{
+    border: 0px;
+    background-color: white;
+}
+.headpart4 img{
+    height: 100%;
+    width: 100%;
+}
+.text{
+    margin-top: 5%;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.text hr{
+    color: #fed250;
+}
+.table1{
+    width: 20%;
+}
+.headpart5{
+    align-items: center;
+}
+.booknow{
+    margin-top: 2%;
+    height: 50px;
+    width: 300px;
+    border: 0px;
+    background-color: #fed250;
+}
+.fieldset{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headpart6{
+    margin-top: 5%;
+}
+.background img{
+    height: 100%;
+    width: 100%;
+}
+.position{
+    position: absolute;
+    top:70%;
+}
+.bg img{
+    height: 100%;
+    width: 100%;
+}
+.par{
+    position: absolute;
+    top: 420%;
+    left: 10%;
+}
+.par p{
+    font-size: large;
+}
+.headpart7{
+    display: flex;
+    justify-content: space-evenly;
+}
+.im1 button{
+    border: 0px;
+    background-color: white;
+}
+.im2 button img{
+    height: 50px;
+    width: 100px;
+}
+.im4 button img{
+    height: 100px;
+    width: 150px;
+}
+.im5 button img{
+    height: 100px;
+    width: 100px;
+}
+.im6 button img{
+    height: 100px;
+    width: 200px;
+}
+.im2 button{
+    border: 0px;
+    background-color: white;
+}
+.im3 button{
+    border: 0px;
+    background-color: white;
+}
+.im4 button{
+    border: 0px;
+    background-color: white;
+}
+.im5 button{
+    border: 0px;
+    background-color: white;
+}
+.im6 button{
+    border: 0px;
+    background-color: white;
+}
+.subpart1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.subpart1 h2{
+    color: white;
+    font-size: 100%;
+}
+.headpart8{
+    background-color: rgb(65, 57, 57);
+}
+.subpart2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.subpart2 h2{
+    color: white;
+    font-size: 100%;
+}
+.sub{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sub img{
+    height: 70%;
+    width: 70%;
+}
+.sub1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.headpart9{
+    background-color: rgb(92, 87, 87);
+    color: white;
+    position: absolute;
+}
+.last{
+    background-color: black;
+    color: white;
+}
